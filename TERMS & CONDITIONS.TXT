@@ -1,0 +1,73 @@
+TÉRMINOS Y CONDICIONES DE USO DEL BOT
+
+Última actualización: 18/03/2025
+
+Bienvenido/a al bot de Discord (en adelante, el “Bot” o “Wuwu”). Al utilizar este Bot dentro de cualquier servidor de Discord, el usuario (en adelante, “tú” o “usuario”) acepta expresamente los términos y condiciones que se enuncian a continuación. Si no estás de acuerdo con alguno de estos Términos de Servicio, por favor no utilices el Bot.
+1. ACEPTACIÓN DE LOS TÉRMINOS
+
+1.1. Para poder utilizar el Bot, es necesario que aceptes estos Términos de Servicio.
+1.2. Tu uso continuo del Bot se interpretará como una aceptación de cualquier modificación posterior.
+1.3. El Bot se reserva el derecho de actualizar o cambiar estos términos en cualquier momento. En caso de cambios significativos, se realizará un anuncio en el servidor correspondiente o se comunicará por un mensaje directo en Discord.
+2. DESCRIPCIÓN DEL SERVICIO
+
+2.1. El Bot ofrece diversas funcionalidades, entre ellas:
+
+    Comandos de economía virtual: comprar/vender acciones virtuales, recibir dividendos, consultar saldo, ranking, etc.
+    Comandos de utilidad y moderación: establecer prefijos, mutear usuarios, crear tickets de soporte, etc.
+    Comandos interactivos (menus, slash commands, etc.) para facilitar la navegación y uso de las funciones del Bot.
+
+2.2. Este Bot es de carácter recreativo y no representa inversiones o transacciones reales. Cualquier referencia a acciones, divisas o activos es puramente para el entretenimiento de la comunidad.
+3. REQUISITOS DE USO
+
+3.1. Para hacer uso del Bot, debes tener una cuenta válida de Discord y estar en un servidor que haya invitado al Bot.
+3.2. Ciertos comandos de administración están restringidos a usuarios con privilegios de moderación o administración en el servidor.
+3.3. Para utilizar la mayoría de los comandos del Bot, es necesario aceptar estos Términos de Servicio mediante el comando !acepto (o equivalente Slash Command, si se habilita). Si no aceptas, el Bot restringirá el acceso a otras funciones.
+4. PRIVACIDAD Y DATOS
+
+4.1. Recolección de Datos: El Bot guarda información necesaria para su correcto funcionamiento, como:
+
+    ID de Discord (usuario y servidor) para registrar tu saldo virtual, inversiones, historial de transacciones y otros datos de juego.
+    Advertencias, roles u otra información de moderación únicamente dentro del servidor para fines de administración.
+
+4.2. Uso de la Información:
+
+    Los datos se utilizan exclusivamente para llevar el registro de las funcionalidades (económicas, de moderación o de experiencia de usuario) que ofrece el Bot.
+    No se comparten datos con terceros, salvo que exista una obligación legal de divulgación.
+
+4.3. Almacenamiento: El Bot almacena la información en bases de datos locales o en servidores seguros, bajo medidas razonables para protegerla.
+
+4.4. Retención de Datos: Si abandonas el servidor o el Bot deja de estar presente, tus datos se podrían mantener un período de tiempo razonable para fines de logs o contabilidad del servidor, o podrían ser eliminados según la política interna de limpieza.
+5. LIMITACIONES Y RESPONSABILIDADES
+
+5.1. Disponibilidad: El Bot se proporciona tal cual (“como es”) y no garantiza su disponibilidad en todo momento. Podría tener periodos de inactividad por mantenimiento o fallos técnicos.
+
+5.2. Responsabilidad:
+
+    El propietario y/o desarrollador del Bot no asume responsabilidad alguna por decisiones tomadas en base a la información proveída por los comandos (por ejemplo, simulaciones de compra/venta de acciones).
+    El Bot no se responsabiliza por cualquier tipo de daño, pérdida de datos o inconvenientes que se deriven de su uso, ya sea directa o indirectamente.
+    El Bot no reemplaza servicios de inversión reales y no promueve, recomienda ni endosa inversiones reales.
+
+5.3. Usos Prohibidos:
+
+    Usar el Bot para infringir Términos de Servicio de Discord, o realizar actividades ilegales, difamatorias, hostiles u ofensivas.
+    Realizar spam, flooding de comandos o abusar de las funciones de moderación que ofrece el Bot.
+
+6. CAMBIOS Y ACTUALIZACIONES
+
+6.1. El Bot puede ser actualizado o modificado regularmente para corregir errores, mejorar funcionalidades o agregar nuevas características.
+6.2. Se reserva el derecho de eliminar o modificar comandos existentes sin previo aviso.
+7. TERMINACIÓN DE SERVICIO
+
+7.1. El acceso al Bot puede suspenderse o revocarse en cualquier momento si el usuario incumple con estos Términos.
+7.2. Los administradores de un servidor de Discord pueden retirar al Bot de su servidor en cualquier momento.
+7.3. El desarrollador se reserva el derecho de dejar de dar soporte al Bot, deshabilitarlo o cerrarlo definitivamente, sin responsabilidad ni obligación adicional.
+8. CONTACTO Y SOPORTE
+
+8.1. Para cuestiones de soporte, se podrá escribir a xulpes@proton.me.
+8.2. Para consultas de privacidad o solicitudes de eliminación de datos, por favor dirige un mensaje al desarrollador del Bot o a los Administradores del servidor.
+9. LEY APLICABLE
+
+9.1. Cualquier disputa derivada de estos Términos de Servicio se regulará conforme a la normativa vigente según la jurisdicción del titular del Bot o, en su defecto, el lugar donde se preste efectivamente el servicio.
+ACEPTACIÓN FINAL
+
+Al usar este Bot en Discord, reconoces que has leído, comprendido y estás de acuerdo con estos Términos de Servicio. Si no estás de acuerdo, no debes utilizar el Bot o debes abandonar inmediatamente su uso.
