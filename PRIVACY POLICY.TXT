@@ -1,0 +1,96 @@
+POLÍTICA DE PRIVACIDAD DEL BOT
+
+Última actualización: 18/03/2025
+
+La presente Política de Privacidad describe cómo se recopilan, utilizan y protegen los datos personales e información relacionada con los usuarios (en adelante, “tú” o “usuario”) cuando se utiliza el Bot (en adelante, el “Bot” o “Wuwu”) en la plataforma Discord.
+1. ACEPTACIÓN DE ESTA POLÍTICA
+
+1.1. Al interactuar con el Bot en cualquier servidor de Discord, confirmas que has leído y aceptado los términos de esta Política de Privacidad.
+1.2. Si no aceptas estos términos, te recomendamos no utilizar el Bot o, en su defecto, discontinuar su uso.
+2. INFORMACIÓN QUE SE RECOPILA
+
+2.1. Datos de Identificación:
+
+    El Bot almacena los IDs de usuario de Discord, los IDs de servidor y, en ocasiones, el ID de canales donde se ejecutan ciertos comandos.
+    Estos datos son necesarios para identificar de forma única a cada usuario y llevar la cuenta de su progreso, transacciones virtuales u otra información de juego.
+
+2.2. Datos de Actividad:
+
+    El Bot registra los comandos que ingresas (por ejemplo, tu historial de “comprar” o “vender” en la economía virtual) y tus interacciones (cambios de roles, advertencias, etc.).
+    La fecha y hora de dichas interacciones podrían ser registradas con fines de historial o registro de eventos.
+
+2.3. Contenido de Mensajes:
+
+    En la mayoría de los casos, el Bot no guarda el contenido textual completo de tus mensajes. Sin embargo, en ciertos comandos puede procesar información de forma temporal (por ejemplo, al abrir un ticket de soporte o cuando se analiza un mensaje para un AFK).
+    Solo se guarda información puntual y necesaria para que las funcionalidades trabajen correctamente (por ejemplo, razones de mute, advertencias o tickets).
+
+2.4. Otras Variables:
+
+    Pueden existir algunas estadísticas adicionales asociadas a tu cuenta de Discord, como saldo en la economía virtual, roles adquiridos, logros, historial de transacciones, etc.
+
+3. CÓMO SE UTILIZA TU INFORMACIÓN
+
+3.1. Funciones del Bot:
+
+    Tu información se utiliza para ejecutar los comandos del Bot (por ejemplo, mostrar tu saldo, registrar inversiones virtuales, canjear items de la tienda, etc.).
+    Sin estos datos, el Bot no puede identificarte de manera correcta ni ofrecerte las funciones de juego o moderación.
+
+3.2. Comunicación:
+
+    El Bot puede enviarte mensajes privados (DM) cuando así lo solicites o si ciertas notificaciones están habilitadas (como recordatorios, alertas de precio, etc.).
+    El Bot se limita a notificarte sobre aspectos del mismo en el servidor y no envía mensajes con fines publicitarios o de mercadeo no relacionado al Bot.
+
+3.3. Moderación y Seguridad:
+
+    En caso de que la herramienta ofrezca funciones de moderación (como warns, mute, etc.), se registrarán las acciones para mantener el orden en el servidor.
+    El Bot puede almacenar logs de advertencias o baneo temporal para evitar abusos y respetar los lineamientos del servidor.
+
+4. CÓMO SE COMPARTE TU INFORMACIÓN
+
+4.1. No Compartimos con Terceros:
+
+    La información recopilada se utiliza únicamente para fines relacionados con el Bot.
+    No se comparte ni vende a terceros, salvo obligación legal o solicitud formal de autoridades competentes.
+
+4.2. Administradores del Servidor:
+
+    Los datos pueden ser accesibles, en parte, para los administradores o dueños del servidor donde se ejecuta el Bot, si resulta necesario para la moderación o el mantenimiento interno del servidor.
+    La información de moderación y de la economía virtual también es visible a las personas con los permisos adecuados dentro del Bot o el servidor.
+
+4.3. Cumplimiento Legal:
+
+    Podríamos divulgar cierta información para cumplir con requerimientos legales o si fuese necesario para investigar un incumplimiento de los Términos de Servicio de Discord o de la política interna del servidor donde resides.
+
+5. PROTECCIÓN DE DATOS
+
+5.1. Medidas de Seguridad:
+
+    Implementamos medidas razonables para proteger la información (en bases de datos seguras, contraseñas, etc.).
+    Sin embargo, no podemos garantizar la seguridad absoluta de los datos ante todos los escenarios, ya que ningún método de transmisión o almacenamiento es 100% infalible.
+
+5.2. Retención de Datos:
+
+    Se retendrán tus datos mientras sea necesario para el cumplimiento de las funcionalidades del Bot (juego, moderación, logs) o hasta que el Bot sea eliminado del servidor, o tú solicites la eliminación de tus datos de manera específica.
+
+6. DERECHOS DE LOS USUARIOS
+
+6.1. Acceso y Rectificación:
+
+    Puedes solicitar información sobre los datos que se han almacenado de tu usuario (ID de Discord) en relación con el Bot.
+    Si detectas errores, puedes pedir su corrección (si es técnicamente posible y no afecta la integridad del juego o registros).
+
+6.2. Eliminación:
+
+    Tienes derecho a solicitar la eliminación de tu información personal (por ejemplo, si abandonas el servidor o ya no deseas utilizar el Bot). Sin embargo, esto podría implicar la pérdida de todo tu progreso o datos en la economía del servidor.
+    En caso de que existan obligaciones legales para mantener ciertos registros (por ejemplo, informes de abuso), la eliminación podría no ser inmediata o total.
+
+7. ACTUALIZACIONES DE ESTA POLÍTICA
+
+7.1. El desarrollador o propietario del Bot puede actualizar esta Política de Privacidad periódicamente para reflejar cambios en los servicios ofrecidos o ajustes por requisitos legales.
+7.2. Si se realizan cambios significativos, se notificará en el canal o medio que corresponda dentro del servidor de Discord (o vía mensaje directo si fuera posible).
+8. CONTACTO
+
+Para cualquier duda, comentario o solicitud relacionada con esta Política de Privacidad, puedes contactar al administrador o desarrollador del Bot a través de xulpes@proton.me .
+TU CONSENTIMIENTO
+
+Al utilizar el Bot, declaras que comprendes y aceptas los términos de esta Política de Privacidad. Si en cualquier momento deseas revocar tu consentimiento o ejercer tus derechos de acceso, rectificación o eliminación, contáctanos a través de los medios descritos anteriormente.
